@@ -1,0 +1,13 @@
+[DEFAULT]
+title=Hereditær spastisk paraparese og hereditær ataksi
+
+coverage_description=* ATPX har to aktuelle transkript. NM_175069.2 blir også vurdert.
+
+mlpa=SPAST: SPG4, MLPA detekterer 20% av tilfellene* (P165 HSP)<br>
+ ATL1: SPG3A, MLPA detekterer en svært liten andel av tilfellene* (P165 HSP)<br>
+ REEP1: SPG31, MLPA detekterer en svært liten andel av tilfellene* (P213 HSP-2)<br>
+ SPG7: MLPA detekterer en svært liten andel av tilfellene* (P213 HSP-2)<br>
+ SPG11: KIAA1840, MLPA detekterer en svært liten andel av tilfellene* (P306 SPG11)<br>
+ APTX: MLPA detekterer en ukjent, men antatt liten andel av tilfellene* (P316 Recessive Ataxias)<br>
+ FXN: 96% av tilfellene er homozygote for en GAA triplett ekspansjon som ikke detekteres ved denne teknologien, mens 4% av tilfellene er heterozygote for GAA-ekspansjon og en annen genetisk forandring i FXN*. Vi kan tilby sangersekvensering og MLPA (P316 Recessive Ataxias) av FXN.<br>
+ * www.genereviews.org

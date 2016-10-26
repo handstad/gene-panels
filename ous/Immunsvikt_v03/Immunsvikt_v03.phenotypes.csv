@@ -1,0 +1,361 @@
+# Genepanel: Immunsvikt Version: 03 Date: 2016-08-10
+#gene symbol	phenotype	inheritance	omim_number	pmid	inheritance info	comment
+ACD	?Dyskeratosis congenita, autosomal recessive 7	AR;AD	616553			
+ACD	?Dyskeratosis congenita, autosomal dominant 6	AR;AD	616553			
+ACP5	Spondyloenchondrodysplasia with immune dysregulation	AR	607944			
+ADA	Severe combined immunodeficiency due to ADA deficiency	AR	102700			
+ADA	Adenosine deaminase deficiency, partial	AR	102700			
+ADAR	Dyschromatosis symmetrica hereditaria	AD	127400			
+ADAR	Aicardi-Goutieres syndrome 6	AR	615010			
+AICDA	Immunodeficiency with hyper-IgM, type 2	AR	605258			
+AIRE	Autoimmune polyendocrinopathy syndrome , type I, with or without reversible metaphyseal dysplasia	AR;AD	240300			
+AK2	Reticular dysgenesis	AR	267500			
+AP3B1	Hermansky-Pudlak syndrome 2	AR	608233			
+ATM	Ataxia-telangiectasia	AR	208900			
+B2M	Immunodeficiency 43	AR	241600			
+BCL10	?Immunodeficiency 37	AR	616098			
+BLM	Bloom syndrome	AR	210900			
+BLNK	Agammaglobulinemia 4	AR	613502			
+BLOC1S6	Hermansky-pudlak syndrome 9	AR	614171			
+BRCA2	Fanconi anemia, complementation group D1	AR	605724			
+BRIP1	Fanconi anemia, complementation group J		609054			
+BTK	Agammaglobulinemia, X-linked 1	XR	300755			
+BTK	Agammaglobulinemia and isolated hormone deficiency	XR	307200			
+C15orf41	Dyserythropoietic anemia, congenital, type Ib	AR	615631			
+C1QA	C1q deficiency	AR	613652			
+C1QB	C1q deficiency	AR	613652			
+C1QC	C1q deficiency	AR	613652			
+C1S	C1s deficiency		613783			
+C2	C2 deficiency	AR	217000			
+C3	C3 deficiency	AR	613779			
+C5	C5 deficiency	AR	609536			
+C6	C6 deficiency	AD?AR?	612446			
+C7	C7 deficiency	AR	610102			
+C8A	C8 deficiency, type I	AR	613790			
+C8B	C8 deficiency, type II	AR	613789			
+C9	C9 deficiency	AR	613825			
+CA2	Osteopetrosis, autosomal recessive 3, with renal tubular acidosis	AR	259730			
+CARD11	Immunodeficiency 11	AR	615206			
+CARD9	Candidiasis, familial, 2, autosomal recessive	AR	212050			
+CASP10	Autoimmune lymphoproliferative syndrome, type II	AD	603909			
+CASP8	?Autoimmune lymphoproliferative syndrome, type IIB	AR	607271			
+CD19	Immunodeficiency, common variable, 3	AR	613493			
+CD247	?Immunodeficiency 25	AR	610163			
+CD27	Lymphoproliferative syndrome 2	AR	615122			
+CD3D	Immunodeficiency 19	AR	615617			
+CD3E	Immunodeficiency 18, SCID variant	AR	615615			
+CD3E	Immunodeficiency 18	AR	615615			
+CD3G	Immunodeficiency 17, CD3 gamma deficient	AR	615607			
+CD40	Immunodeficiency with hyper-IgM, type 3	AR	606843			
+CD40LG	Immunodeficiency, X-linked, with hyper-IgM	XR	308230			
+CD79A	Agammaglobulinemia 3	AR	613501			
+CD79B	Agammaglobulinemia 6	AR	612692			
+CD81	Immunodeficiency, common variable, 6	AR	613496			
+CD8A	CD8 deficiency, familial	AR	608957			
+CDAN1	Dyserythropoietic anemia, congenital, type Ia	AR	224120			
+CEBPE	Specific granule deficiency	AR	245480			
+CFB	?Complement factor B deficiency	AR	615561			
+CFD	Complement factor D deficiency	AR	613912			
+CFH	Complement factor H deficiency	AR;AD	609814			
+CFHR5	Nephropathy due to CFHR5 deficiency	AD	614809			
+CFI	Complement factor I deficiency	AR	610984			
+CFP	PROPERDIN DEFICIENCY, X-LINKED	XLR	312060			
+CHD7	CHARGE syndrome	AD	214800			
+CIITA	BARE LYMPHOCYTE SYNDROME, TYPE II	AR	209920			
+CLCN7	Osteopetrosis, autosomal recessive 4	AR	611490			
+CLCN7	Osteopetrosis, autosomal dominant 2	AD	166600			
+CLEC7A	Candidiasis, familial, 4, autosomal recessive	AR	613108			
+COLEC11	3MC syndrome 2	AR	265050			Også i Nijmegen
+COPA	{Autoimmune interstitial lung, joint, and kidney disease}	AD	616414			
+CORO1A	Immunodeficiency 8	AR	615401			
+CR2	Immunodeficiency, common variable, 7	AR	614699			
+CSF2RA	Surfactant metabolism dysfunction, pulmonary, 4	XL	300770			Obs pseudoautosomal recessiv arvegang
+CSF2RB	Surfactant metabolism dysfunction, pulmonary, 5	AR	614370			
+CSF3R	?Neutrophilia, hereditary	AD	162830			
+CTC1	Cerebroretinal microangiopathy with calcifications and cysts	AR	612199			
+CTLA4	Autoimmune lymphoproliferative syndrome, type V	AD	616100			
+CTPS1	Immunodeficiency 24	AR	615897			
+CTSC	Haim-Munk syndrome	AR	245010			
+CTSC	Periodontitis 1, juvenile	AR	170650			
+CXCR4	WHIM syndrome	AD	193670			
+CYBA	Chronic granulomatous disease, autosomal, due to deficiency of CYBA	AR	233690			
+CYBB	Immunodeficiency 34, mycobacteriosis, X-linked	XR	300645			
+CYBB	Chronic granulomatous disease, X-linked	XR	306400			
+DCLRE1C	Severe combined immunodeficiency, Athabascan type	AR	602450			
+DCLRE1C	Omenn syndrome	AR	603554			
+DKC1	Dyskeratosis congenita, X-linked	XR	305000			
+DNMT3B	Immunodeficiency-centromeric instability-facial anomalies syndrome 1	AR	242860			
+DOCK2	Immunodeficiency 40	AR	616433			
+DOCK8	Hyper-IgE recurrent infection syndrome, autosomal recessive	AR	243700			
+DTNBP1	Hermansky-Pudlak syndrome 7	AR	614076			
+ELANE	Neutropenia, cyclic	AD	162800			
+ELANE	Neutropenia, severe congenital 1, autosomal dominant	AD	202700			
+EPG5	Vici syndrome	AR	242840			
+ERCC2	Trichothiodystrophy 1, photosensitive	AR	601675			Også i Nijmegen
+ERCC3	Trichothiodystrophy 2, photosensitive	AR	616390			Også i Nijmegen
+ERCC4	Fanconi anemia, complementation group Q	AR	615272			
+ERCC6L2	Bone marrow failure syndrome 2	AR	615715			
+F12	Factor XII deficiency	AR	234000			Også i Nijmegen
+FADD	Infections, recurrent, with encephalopathy, hepatic dysfunction, and cardiovasuclar malformations	AR	613759			
+FANCA	Fanconi anemia, complementation group A	AR	227650			
+FANCB	Fanconi anemia, complementation group B	XR	300514			
+FANCC	Fanconi anemia, complementation group C	AR	227645			
+FANCD2	Fanconi anemia, complementation group D2	AR	227646			
+FANCE	Fanconi anemia, complementation group E	AR	600901			
+FANCF	Fanconi anemia, complementation group F	AR	603467			
+FANCG	Fanconi anemia, complementation group G	AR	614082			
+FANCI	Fanconi anemia, complementation group I	AR	609053			
+FANCL	Fanconi anemia, complementation group L	AR	614083			
+FAS	{Autoimmune lymphoproliferative syndrome}	AD	601859			
+FAS	Autoimmune lymphoproliferative syndrome, type IA	AD	601859			
+FASLG	Autoimmune lymphoproliferative syndrome, type IB	AD	601859			
+FCGR3A	Immunodeficiency 20	AR	615707			
+FCN3	Immunodeficiency due to ficolin 3 deficiency	AR	613860			
+FERMT3	Leukocyte adhesion deficiency, type III	AR	612840			
+FOXN1	T-cell immunodeficiency, congenital alopecia, and nail dystrophy	AR	601705			
+FOXP3	Immunodysregulation, polyendocrinopathy, and enteropathy, X-linked	XR	304790			
+G6PC	Glycogen storage disease Ia	AR	232200			
+G6PC3	Neutropenia, severe congenital 4, autosomal recessive	AR	612541			
+G6PC3	Dursun syndrome	AR	612541			
+G6PD	Hemolytic anemia due to G6PD deficiency	XR	300908			Kan gi nøytropeni
+GATA1	Anemia, X-linked, with/without neutropenia and/or platelet abnormalities	XR	300835			
+GATA2	Emberger syndrome	AD	614038			
+GATA2	Immunodeficiency 21	AD	614172			
+GFI1	Neutropenia, nonimmune chronic idiopathic, of adults	AD	607847			
+GFI1	Neutropenia, severe congenital 2, autosomal dominant	AD	613107			
+GTF2H5	Trichothiodystrophy 3, photosensitive	AR	616395			
+HAX1	Neutropenia, severe congenital 3, autosomal recessive	AR	610738			
+HPS1	Hermansky-Pudlak syndrome 1	AR	203300			
+HPS3	Hermansky-Pudlak syndrome 3	AR	614072			
+HPS4	Hermansky-Pudlak syndrome 4	AR	614073			
+HPS5	Hermansky-Pudlak syndrome 5	AR	614074			
+HPS6	Hermansky-Pudlak syndrome 6	AR	614075			
+ICOS	Immunodeficiency, common variable, 1	AR	607594			
+IFIH1	Singleton-Merten syndrome 1	AD	182250			
+IFIH1	Aicardi-Goutieres syndrome 7	AD	615846			
+IFNGR1	Immunodeficiency 27A, mycobacteriosis, AR	AR	209950			
+IFNGR2	Immunodeficiency 28, mycobacteriosis	AR	614889			
+IGLL1	Agammaglobulinemia 2	AR	613500			
+IKBKB	Immunodeficiency 15	AR	615592			
+IKZF1	Immunodeficiency, common variable, 13	AD	616873			
+IL10	KAN GI ALVORLIG IMMUNSVIKT MED TARMAFFEKSJON					Fenotype personlig meddelelse fra Asbjørg SP
+IL10RA	Inflammatory bowel disease 28, early onset, autosomal recessive	AR	613148			
+IL10RB	INFLAMMATORY BOWEL DISEASE, EARLY-ONSET, AUTOSOMAL RECESSIVE	AR	612567			
+IL12B	Immunodeficiency 29, mycobacteriosis	AR	614890			
+IL12RB1	Immunodeficiency 30	AR	614891			
+IL17F	?Candidiasis, familial, 6, autosomal dominant	AD	613956			
+IL17RA	?Candidiasis, familial, 5, autosomal recessive	AR	613953			
+IL17RC	Candidiasis, familial, 9	AR	616445			
+IL1RN	Interleukin 1 receptor antagonist deficiency	AR	612852			
+IL21	?Immunodeficiency, common variable, 11	AR	615767			
+IL21R	Immunodeficiency, primary, autosomal recessive, IL21R-related	AR	615207			
+IL2RA	Immunodeficiency 41 with lymphoproliferation and autoimmunity	AR	606367			
+IL2RG	Severe combined immunodeficiency, X-linked	XR	300400			
+IL2RG	Combined immunodeficiency, X-linked, moderate	XR	312863			
+IL36RN	Psoriasis 14, pustular	AR	614204			
+IL7R	Severe combined immunodeficiency, T-cell negative, B-cell/natural killer cell-positive type	AR	608971			
+IRAK4	Invasive pneumococcal disease, recurrent isolated, 1	AR	610799			
+IRAK4	IRAK4 deficiency	AR	607676			
+IRF7	?Immunodeficiency 39	AR	616345			
+IRF8	Immunodeficiency 32B, monocyte and dendritic cell deficiency, autosomal recessive	AR	614894			
+IRF8	Immunodeficiency 32A, mycobacteriosis, autosomal dominant	AD	614893			
+ISG15	Immunodeficiency 38	AR	616126			
+ITCH	Autoimmune disease, multisystem, with facial dysmorphism	AR	613385			
+ITGB2	Leukocyte adhesion deficiency	AR	116920			
+ITK	Lymphoproliferative syndrome 1	AR	613011			
+JAGN1	Neutropenia, severe congenital, 6, autosomal recessive	AR	616022			
+JAK3	SCID, autosomal recessive, T-negative/B-positive type	AR	600802			
+KMT2D	Kabuki syndrome 1	AD	147920			
+LAMTOR2	Immunodeficiency due to defect in MAPBP-interacting protein	AR	610798			
+LCK	?Immunodeficiency 22	AR	615758			
+LIG4	LIG4 syndrome	AR	606593			
+LPIN2	Majeed syndrome	AR	609628			
+LRBA	Immunodeficiency, common variable, 8, with autoimmunity	AR	614700			
+LRRC8A	?Agammaglobulinemia 5	AD	613506			
+LYST	Chediak-Higashi syndrome	AR	214500			
+MAGT1	Immunodeficiency, X-linked, with magnesium defect, Epstein-Barr virus infection and neoplasia	XR	300853			
+MALT1	Immunodeficiency 12	AR	615468			
+MASP2	MASP2 deficiency	AR	613791			
+MBL2	{Chronic infections, due to MBL deficiency}	AR	614372			
+MBTPS2	?Olmsted syndrome, X-linked	XR	300918			
+MCM4	Natural killer cell and glucocorticoid deficiency with DNA repair defect	AR	609981			
+MEFV	Familial Mediterranean fever, AR	AR	249100			Også i Nijmegen
+MEFV	Familial Mediterranean fever, AD	AD	134610			
+MLPH	Griscelli syndrome, type 3	AR	609227			
+MPO	Myeloperoxidase deficiency	AR	254600			
+MRE11A	Ataxia-telangiectasia-like disorder	AR	604391			
+MS4A1	Immunodeficiency, common variable, 5	AR	613495			
+MTHFD1	SCID (+megaloblastic anemi, HUS og div andre, kan behandles med FOLAT)	AR		23296427		
+MTHFD1	SCID (+megaloblastic anemi, HUS og div andre, kan behandles med FOLAT)	AR		25633902		
+MVK	Mevalonic aciduria	AR	610377			
+MVK	Hyper-IgD syndrome	AR	260920			
+MYD88	Pyogenic bacterial infections, recurrent, due to MYD88 deficiency	AR	612260			
+MYH9	Fechtner syndrome	AD	153640			
+MYH9	Epstein syndrome	AD	153650			
+MYH9	Sebastian syndrome	AD	605249			
+MYH9	May-Hegglin anomaly	AD	155100			
+MYH9	Macrothrombocytopenia and progressive sensorineural deafness	AD	600208			
+MYO5A	Griscelli syndrome, type 1	AR	214450			
+NBN	Nijmegen breakage syndrome	AR	251260			
+NCF2	Chronic granulomatous disease due to deficiency of NCF-2	AR	233710			
+NCF4	?Granulomatous disease, chronic, autosomal recessive, cytochrome b-positive, type III	AR	613960			
+NFKB1	Immunodeficiency, common variable, 12	AD	616576			
+NFKB2	Immunodeficiency, common variable, 10	AD	615577			
+NFKBIA	Ectodermal dysplasia, anhidrotic, with T-cell immunodeficiency	AD	612132			
+NHEJ1	Severe combined immunodeficiency with microcephaly, growth retardation, and sensitivity to ionizing radiation	AR	611291			
+NHP2	Dyskeratosis congenita, autosomal recessive 2	AR	613987			
+NLRC4	Autoinflammation with infantile enterocolitis	AD	616050			
+NLRC4	?Familial cold autoinflammatory syndrome 4	AD	616115			
+NLRP1	?Corneal intraepithelial dyskeratosis and ectodermal dysplasia	AD	615225			Også i Nijmegen
+NLRP12	Familial cold autoinflammatory syndrome 2	AD	611762			
+NLRP3	Muckle-Wells syndrome	AD	191900			
+NLRP3	Familial cold-induced inflammatory syndrome 1	AD	120100			
+NLRP3	CINCA syndrome	AD	607115			
+NOD2	Blau syndrome	AD	186580			
+NOP10	Dyskeratosis congenita, autosomal recessive 1	AR	224230			
+NRAS	Noonan syndrome 6	AD	613224			Også i Nijmegen
+ORAI1	Immunodeficiency 9	AR	612782			
+OSTM1	Osteopetrosis, autosomal recessive 5	AR	259720			
+PALB2	Fanconi anemia, complementation group N	AR	610832			
+PARN	Pulmonary fibrosis and/or bone marrow failure, telomere-related, 4	AD	616371			
+PGM3	Immunodeficiency 23	AR	615816			
+PIEZO1	Dehydrated hereditary stomatocytosis with or without pseudohyperkalemia and/or perinatal edema	AD	194380			
+PIK3CD	Immunodeficiency 14	AD	615513			
+PIK3R1	Immunodeficiency 36	AD	616005			
+PIK3R1	?Agammaglobulinemia 7, autosomal recessive	AR	615214			
+PLCG2	Autoinflammation, antibody deficiency, and immune dysregulation syndrome	AD	614878			
+PLEKHM1	Osteopetrosis, autosomal recessive 6	AR	611497			
+PNP	Immunodeficiency due to purine nucleoside phosphorylase deficiency	AR	613179			
+POLE	FILS syndrome	AR	615139			
+PRF1	Aplastic anemia	AD	609135			
+PRKCD	Autoimmune lymphoproliferative syndrome, type III	AR	615559			
+PRKDC	Immunodeficiency 26, with or without neurologic abnormalities	AR	615966			
+PSMB8	Autoinflammation, lipodystrophy, and dermatosis syndrome	AR	256040			
+PSTPIP1	Pyogenic sterile arthritis, pyoderma gangrenosum, and acne	AD	604416			
+PTPRC	Severe combined immunodeficiency, T cell-negative, B-cell/natural killer-cell positive	AR	608971			
+RAB27A	Griscelli syndrome, type 2	AR	607624			
+RAC2	Neutrophil immunodeficiency syndrome	AD	608203			
+RAD50	Nijmegen breakage syndrome-like disorder	AR	613078			
+RAD51C	Fanconi anemia, complementation group O	AR	613390			
+RAG1	Severe combined immunodeficiency, B cell-negative	AR	601457			
+RAG1	Omenn syndrome	AR	603554			
+RAG1	Combined cellular and humoral immune defects with granulomas	AR	233650			
+RAG1	Alpha/beta T-cell lymphopenia with gamma/delta T-cell expansion, severe cytomegalovirus infection, and autoimmunity	AR	609889			
+RAG2	Omenn syndrome	AR	603554			
+RAG2	Combined cellular and humoral immune defects with granulomas	AR	233650			
+RAG2	Severe combined immunodeficiency, B cell-negative	AR	601457			
+RASGRP2	?Bleeding disorder, platelet-type, 18	AR	615888			
+RBCK1	Polyglucosan body myopathy 1 with or without immunodeficiency	AR	615895			
+RBM8A	Thrombocytopenia-absent radius syndrome	AR	274000			
+RECQL4	Rothmund-Thomson syndrome	AR	268400			
+RECQL4	RAPADILINO syndrome	AR	266280			
+RECQL4	Baller-Gerold syndrome	AR	218600	26064716, 21143835		
+RFX5	Bare lymphocyte syndrome, type II, complementation group E	AR	209920			
+RFX5	Bare lymphocyte syndrome, type II, complementation group C	AR	209920			
+RFXANK	MHC class II deficiency, complementation group B	AR	209920			
+RFXAP	Bare lymphocyte syndrome, type II, complementation group D	AR	209920			
+RHAG	Overhydrated hereditary stomatocytosis	AD	185000			
+RHAG	Anemia, hemolytic, Rh-null, regulator type	AR	268150			
+RHOH	Kronisk epidermodysplasia verruciformis/ øket disposisjon for HPV	AR		22850876		
+RLTPR	IN PRESS ASP: 4 pasienter i 3 norske fam. med mutasjon i genet	AR? AD?				
+RNASEH2A	Aicardi-Goutieres syndrome 4	AR	610333			
+RNASEH2B	Aicardi-Goutieres syndrome 2	AR	610181			
+RNASEH2C	Aicardi-Goutieres syndrome 3	AR	610329			
+RNF168	RIDDLE syndrome	AR	611943			
+RNF31	Human HOIP and LUBAC deficiency underlies autoinflammation, immunodeficiency, amylopectinosis, and lymphangiectasia	AR		26008899		
+RORC	Immunodeficiency 42	AR	616622			
+RPL11	Diamond-Blackfan anemia 7	AD	612562			
+RPL15	?Diamond-Blackfan anemia 12	AD	615550			
+RPL26	?Diamond-Blackfan anemia 11	AD	614900			
+RPL35A	Diamond-Blackfan anemia 5	AD	612528			
+RPL5	Diamond-Blackfan anemia 6	AD	612561			
+RPS10	Diamond-Blackfan anemia 9	AD	613308			
+RPS19	Diamond-Blackfan anemia 1	AD	105650			
+RPS24	Diamond-blackfan anemia 3	AD	610629			
+RPS26	Diamond-Blackfan anemia 10	AD	613309			
+RPS29	Diamond-Blackfan anemia 13	AD	615909			
+RPS7	Diamond-Blackfan anemia 8		612563			
+RPSA	Asplenia, isolated congenital	AD	271400			
+RTEL1	Pulmonary fibrosis and/or bone marrow failure, telomere-related, 3	AD	616373			
+RUNX1	Platelet disorder, familial, with associated myeloid malignancy	AD	601399			
+SAMHD1	Aicardi-Goutieres syndrome 5	AR	612952			
+SBDS	Shwachman-Diamond syndrome	AR	260400			
+SERPING1	Complement component 4, partial deficiency of	AD	120790			
+SH2D1A	Lymphoproliferative syndrome, X-linked, 1	XR	308240			
+SKIV2L	Trichohepatoenteric syndrome 2	AR	614602			
+SLC29A3	Histiocytosis-lymphadenopathy plus syndrome	AR	602782			
+SLC35C1	Congenital disorder of glycosylation, type IIc	AR	266265			
+SLC37A4	Glycogen storage disease Ib	AR	232220			
+SLC37A4	Glycogen storage disease Ic	AR	232240			
+SLC46A1	Folate malabsorption, hereditary	AR	229050			
+SLX4	Fanconi anemia, complementation group P	AR	613951			
+SMARCAL1	Schimke immunoosseous dysplasia	AR	242900			
+SNX10	Osteopetrosis, autosomal recessive 8	AR	615085			
+SP110	Hepatic venoocclusive disease with immunodeficiency	AR	235550			
+SPINK5	Netherton syndrome	AR	256500			
+SPINK5	Atopy	AD	147050			
+SRP72	Bone marrow failure syndrome 1	AD	614675			
+STAT1	Immunodeficiency 31A, mycobacteriosis, autosomal dominant	AD	614892			
+STAT1	Immunodeficiency 31C, autosomal dominant	AD	614162			
+STAT1	Immunodeficiency 31B, mycobacterial and viral infections, autosomal recessive		613796			
+STAT2	Immunodeficiency 44	AR	616636			
+STAT3	Hyper-IgE recurrent infection syndrome	AD	147060			
+STAT3	Autoimmune disease, multisystem, infantile-onset	AD	615952			
+STAT5B	Growth hormone insensitivity with immunodeficiency	AR	245590			
+STIM1	Immunodeficiency 10	AR	612783			
+STK4	T-cell immunodeficiency, recurrent infections, autoimmunity, and cardiac malformations	AR	614868			
+STX11	Hemophagocytic lymphohistiocytosis, familial, 4	AR	603552			
+STXBP2	Hemophagocytic lymphohistiocytosis, familial, 5	AR	613101			
+TAP1	Bare lymphocyte syndrome, type I	AR	604571			
+TAP2	Bare lymphocyte syndrome, type I, due to TAP2 deficiency	AR	604571			
+TAPBP	Bare lymphocyte syndrome, type I	AR	604571			
+TAZ	Barth syndrome	XR	302060			
+TBX1	DiGeorge syndrome	AD	188400			
+TBX1	Velocardiofacial syndrome	AD	192430			
+TCF3	Agammaglobulinemia 8, autosomal dominant	AD	616941			
+TCIRG1	Osteopetrosis, autosomal recessive 1	AR	259700			
+TCN2	Transcobalamin II deficiency	AR	275350			
+TERT	{Dyskeratosis congenita, autosomal recessive 4}	AR;AD	613989			
+TERT	{Dyskeratosis congenita, autosomal dominant 2}	AR;AD	613989			
+TERT	{Pulmonary fibrosis and/or bone marrow failure, telomere-related, 1}	AD	614742			
+TFRC	Immunodeficiency 46	AR	616740			
+TGFB1	Camurati-Engelmann disease	AD	131300			
+THBD	{Hemolytic uremic syndrome, atypical, susceptibility to, 6}	AD	612926			
+TICAM1	{Herpes simplex encephalitic, susceptibility to, 6}	AD	614850			
+TINF2	Dyskeratosis congenita, autosomal dominant 3	AD	613990			
+TINF2	Revesz syndrome	AD	268130			
+TLR3	{Herpes simplex encephalitis, susceptibility to, 2}	AD	613002			
+TMC6	Epidermodysplasia verruciformis	AR	226400			
+TMC8	Epidermodysplasia verruciformis	AR	226400			
+TMEM173	STING-associated vasculopathy, infantile-onset	AD	615934			
+TNFRSF11A	Osteopetrosis, autosomal recessive 7	AR	612301			
+TNFRSF13B	Immunodeficiency, common variable, 2	AR;AD	240500			
+TNFRSF13B	Immunoglobulin A deficiency 2	AR;AD	609529			
+TNFRSF13C	Immunodeficiency, common variable, 4	AR	613494			
+TNFRSF1A	Periodic fever, familial	AD	142680			
+TNFRSF4	?Immunodeficiency 16	AR	615593			
+TNFSF11	Osteopetrosis, autosomal recessive 2	AR	259710			
+TNFSF12	B celle svikt/ immunglobulinmangel/ nedsatt humoralt immunrespons	AD		23493554		
+TPP2	Early-onset Evans syndrome, immunodeficiency, and premature immunosenescence associated with tripeptidyl-peptidase II deficiency	AR		25414442		
+TRAF3	{?Herpes simplex encephalitis, susceptibility to, 3}	AD	614849			
+TRAF3IP2	?Candidiasis, familial, 8	AR	615527			
+TREX1	Aicardi-Goutieres syndrome 1, dominant and recessive	AR;AD	225750			
+TRNT1	Sideroblastic anemia with B-cell immunodeficiency, periodic fevers, and developmental delay	AR	616084			
+TTC37	Trichohepatoenteric syndrome 1	AR	222470			
+TTC7A	Gastrointestinal defects and immunodeficiency syndrome	AR	243150			
+TYK2	Immunodeficiency 35	AR	611521			
+UNC119	?Immunodeficiency 13	AD	615518			
+UNC13D	Hemophagocytic lymphohistiocytosis, familial, 3	AR	608898			
+UNG	Immunodeficiency with hyper IgM, type 5	AR	608106			
+USB1	Poikiloderma med neutropeni	AR	604173			
+VPS13B	Cohen syndrome	AR	216550			
+VPS45	Neutropenia, severe congenital, 5, autosomal recessive	AR	615285			
+WAS	Neutropenia, severe congenital, X-linked	XR	300299			
+WAS	Wiskott-Aldrich syndrome	XR	301000			
+WAS	Thrombocytopenia, X-linked, intermittent	XR	313900			
+WAS	Thrombocytopenia, X-linked	XR	313900			
+WIPF1	?Wiskott-Aldrich syndrome 2	AR	614493			
+WRAP53	Dyskeratosis congenita, autosomal recessive 3	AR	613988			
+XIAP	Lymphoproliferative syndrome, X-linked, 2	XLR	300635			
+ZAP70	Selective T-cell defect	AR	269840			
+ZBTB24	Immunodeficiency-centromeric instability-facial anomalies syndrome-2	AR	614069			

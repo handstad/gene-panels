@@ -1,0 +1,3 @@
+WARNING:root:Note that Refseq NM_024790 in refGene is >300bp (1 and 351) displaced  compared to Ensembl txStart/stop. Consider to validate coding regions.
+INFO:root:From 14 refseqNames, found total of 14 records in refGene. 0 names have duplicates.
+INFO:root:transcripts.csv and region files written to path '/Users/tonyha/Dropbox/data/tmp/regionfiler2/clinicalGenePanels/Jeune_OUS_medGen_v02_b37/'

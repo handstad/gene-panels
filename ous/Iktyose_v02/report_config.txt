@@ -1,0 +1,5 @@
+[DEFAULT]
+title=Iktyose
+
+coverage_description=* Ved X-bundet iktyose bør MLPA på STS genet rekvireres før HTS
+

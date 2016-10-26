@@ -1,0 +1,32 @@
+[yvans@vali exe]$ ./make_region_files --biomartfile=/data/projects/yvans/Coverage/Joubert/JoubertV02/Joubert_v2_mart_export_02.09.15.csv --refgene=/data/diag/production/vcpipe/vcpipe-bundle/funcAnnot/refseq/refGene_131119.tab --outputdir=/data/projects/yvans/Coverage/Joubert/JoubertV02/ --genepanel=Joubert --version=02  --outputdir=/data/projects/yvans/Coverage/Joubert/JoubertV02/ --dict=/data/diag/diagInternal/diagnosticBundle/refData/dataDistro_r01_d01_diag/b37/genomic/gatkBundle_2.5/human_g1k_v37_decoy.dict
+WARNING:root:Given versioned refseq NM_017651.4 does not match used refGene NM_017651.
+WARNING:root:Note that Refseq NM_182896 in refGene is >300bp (17 and 1609) displaced  compared to Ensembl txStart/stop. Consider to validate coding regions.
+WARNING:root:Given versioned refseq NM_182896.2 does not match used refGene NM_182896.
+WARNING:root:Given versioned refseq NM_013236.3 does not match used refGene NM_013236.
+WARNING:root:Given versioned refseq NM_023073.3 does not match used refGene NM_023073.
+WARNING:root:Given versioned refseq NM_001080522.2 does not match used refGene NM_001080522.
+WARNING:root:Given versioned refseq NM_025114.3 does not match used refGene NM_025114.
+WARNING:root:Given versioned refseq NM_018718.2 does not match used refGene NM_018718.
+WARNING:root:Note that Refseq NM_024790 in refGene is >300bp (1 and 351) displaced  compared to Ensembl txStart/stop. Consider to validate coding regions.
+WARNING:root:Given versioned refseq NM_024790.6 does not match used refGene NM_024790.
+WARNING:root:Given versioned refseq NM_019892.4 does not match used refGene NM_019892.
+WARNING:root:Given versioned refseq NM_198525.2 does not match used refGene NM_198525.
+WARNING:root:Given versioned refseq NM_000272.3 does not match used refGene NM_000272.
+WARNING:root:Given versioned refseq NM_003611.2 does not match used refGene NM_003611.
+WARNING:root:Given versioned refseq NM_002601.3 does not match used refGene NM_002601.
+WARNING:root:Note that Refseq NM_015272 in refGene is >300bp (13 and 873) displaced  compared to Ensembl txStart/stop. Consider to validate coding regions.
+WARNING:root:Given versioned refseq NM_015272.2 does not match used refGene NM_015272.
+WARNING:root:Given versioned refseq NM_001082538.2 does not match used refGene NM_001082538.
+WARNING:root:Given versioned refseq NM_024809.4 does not match used refGene NM_024809.
+WARNING:root:Given versioned refseq NM_015631.5 does not match used refGene NM_015631.
+WARNING:root:Given versioned refseq NM_016464.4 does not match used refGene NM_016464.
+WARNING:root:Given versioned refseq NM_001173990.2 does not match used refGene NM_001173990.
+WARNING:root:Given versioned refseq NM_001077416.2 does not match used refGene NM_001077416.
+WARNING:root:Given versioned refseq NM_001044385.2 does not match used refGene NM_001044385.
+WARNING:root:Given versioned refseq NM_153704.5 does not match used refGene NM_153704.
+WARNING:root:Given versioned refseq NM_024753.4 does not match used refGene NM_024753.
+WARNING:root:Note that Refseq NM_015069 in refGene is >300bp (1 and 3079) displaced  compared to Ensembl txStart/stop. Consider to validate coding regions.
+WARNING:root:Given versioned refseq NM_015069.3 does not match used refGene NM_015069.
+INFO:root:From 24 refseqNames, found total of 24 records in refGene. 0 names have duplicates.
+INFO:root:transcripts.csv and region files written to path '/data/projects/yvans/Coverage/Joubert/JoubertV02/'
+[yvans@vali clinicalGenePanels]$ cp /data/projects/yvans/Coverage/Joubert/JoubertV02/Joubert* Joubert_v02/

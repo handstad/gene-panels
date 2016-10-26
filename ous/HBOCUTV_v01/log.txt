@@ -1,0 +1,18 @@
+##### Parsing files from the main gene panel: KREFT_v01
+
+python ~/home/github/amg/src/genepanel/postprocess.py --phenotypes fenotyper_kreft_HTS_TW020316.reformat.1.txt --transcripts KREFT_v01/KREFT_v01.transcripts.csv --bedfiles `ls KREFT_v01/KREFT_v01.*bed` --outputdir HBOCUTV_v01 --subpanel HBOCUTV --version v01 --symbolsfile HBOCUTV_v01/HBOCUTV_underpaneler_v1.txt
+Generating files for subpanel HBOCUTV v01
+Number of transcripts removed: 10
+Number of genes in final transcripts file: 7
+Number of lines removed from bed file: 123
+Number of genes in final bed file: 7
+Number of lines removed from bed file: 123
+Number of genes in final bed file: 7
+Number of lines removed from bed file: 123
+Number of genes in final bed file: 7
+Number of phenotypes kept: 35
+Number of phenotypes removed: 48
+Genes removed by removing phenotypes (10): APC, BMPR1A, CDK4, CDKN2A, MLH1, MSH2, MSH6, MUTYH, PMS2, SMAD4
+Number of genes in final phenotypes file: 7
+Genes not in appearing in both transcripts and phenotypes files: 
+Subpanel files are put in test

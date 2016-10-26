@@ -1,0 +1,18 @@
+##### Parsing files from the main gene panel: KREFT_v01
+
+python ~/home/github/amg/src/genepanel/postprocess.py --phenotypes fenotyper_kreft_HTS_TW020316.reformat.1.txt --transcripts KREFT_v01/KREFT_v01.transcripts.csv --bedfiles `ls KREFT_v01/KREFT_v01.*bed` --outputdir HBOC_v01 --subpanel HBOC --version v01 --symbolsfile HBOC_v01/HBOC_underpaneler_v1.txt 
+Generating files for subpanel HBOC v01
+Number of transcripts removed: 15
+Number of genes in final transcripts file: 2
+Number of lines removed from bed file: 180
+Number of genes in final bed file: 2
+Number of lines removed from bed file: 180
+Number of genes in final bed file: 2
+Number of lines removed from bed file: 180
+Number of genes in final bed file: 2
+Number of phenotypes kept: 7
+Number of phenotypes removed: 76
+Genes removed by removing phenotypes (15): APC, BMPR1A, CDH1, CDK4, CDKN2A, MLH1, MSH2, MSH6, MUTYH, PALB2, PMS2, PTEN, SMAD4, STK11, TP53
+Number of genes in final phenotypes file: 2
+Genes not in appearing in both transcripts and phenotypes files: 
+Subpanel files are put in HBOC_v01

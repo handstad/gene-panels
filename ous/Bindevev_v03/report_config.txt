@@ -1,0 +1,18 @@
+[DEFAULT]
+title=Genetiske bindevevssykdommer
+version = v03
+
+coverage_description=
+
+mlpa=FBN1: Marfan syndrom, MLPA detekterer ca 2% av tilfellene* (P065 Marfan syndrome-1 og P066 Marfan syndrome-2)<br>
+ TGFBR1: Loeys-Dietz syndrom, nytteverdi av MLPA er lav* (P148 TGFBR1-TGFBR2)<br>
+ TGFBR2: Loeys-Dietz syndrom, nytteverdi av MLPA er lav* (P148 TGFBR1-TGFBR2)<br>
+  *Clinical Utility Gene Card (Eur J Hum Gen)<br>
+
+[Web publishing - table]
+# The values (not the keys) are printed line by line before the table with genes.
+legend = [
+    "Tabellen er sortert på gennavn (HGNC gensymbol)",
+    "Navn på gen er iht. HGNC",
+    "<b>>x10</b> Andel av genet som har blitt lest med tilfredstillende kvalitet flere enn 10 ganger under sekvensering"
+    ]

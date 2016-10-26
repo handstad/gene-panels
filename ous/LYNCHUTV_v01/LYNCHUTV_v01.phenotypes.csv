@@ -1,0 +1,13 @@
+# Genepanel: LYNCHUTV Version: v01 Date: 2016-05-27
+gene symbol	phenotype	inheritance	omim_number	pmid	inheritance info	comment
+APC	Adenomatous polyposis coli	AD	175100			
+BMPR1A	Polyposis, juvenile intestinal	AD	174900			
+CDH1	Gastric cancer, familial diffuse	AD	137215			removed "with or without cleft lip and/or ppalate" from phenotype
+MLH1	Colorectal cancer, hereditary nonpolyposis, type 2	AD	609310			
+MSH2	Colorectal cancer, hereditary nonpolyposis, type 1	AD	120435			
+MSH6	Colorectal cancer, hereditary nonpolyposis, type 5	AD	614350			
+MUTYH	Colorectal adenomatous polyposis, autosomal recessive	AR	132600			added AR and removed  "with pilomatricomas" from phenotype
+PMS2	Colorectal cancer, hereditary nonpolyposis, type 4	AD	614337			
+PTEN	Cowden syndrome 1	AD	158350			
+SMAD4	Polyposis, juvenile intestinal	AD	174900			
+STK11	Peutz-Jeghers syndrome	AD	175200			

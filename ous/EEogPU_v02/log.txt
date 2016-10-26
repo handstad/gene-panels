@@ -1,0 +1,19 @@
+WARNING:root:Note that Refseq NM_003688 in refGene is >300bp (19 and 5155) displaced  compared to Ensembl txStart/stop. Consider to validate coding regions.
+WARNING:root:Note that Refseq NM_003588 in refGene is >300bp (35 and 2051) displaced  compared to Ensembl txStart/stop. Consider to validate coding regions.
+WARNING:root:Note that Refseq NM_001396 in refGene is >300bp (1 and 2790) displaced  compared to Ensembl txStart/stop. Consider to validate coding regions.
+WARNING:root:Note that Refseq NM_005249 in refGene is >300bp (10 and 613) displaced  compared to Ensembl txStart/stop. Consider to validate coding regions.
+WARNING:root:Note that Refseq NM_007327 in refGene is >300bp (766 and 7) displaced  compared to Ensembl txStart/stop. Consider to validate coding regions.
+WARNING:root:Note that Refseq NM_000833 in refGene is >300bp (0 and 5115) displaced  compared to Ensembl txStart/stop. Consider to validate coding regions.
+WARNING:root:Note that Refseq NM_000834 in refGene is >300bp (31 and 21244) displaced  compared to Ensembl txStart/stop. Consider to validate coding regions.
+WARNING:root:Note that Refseq NM_002397 in refGene is >300bp (233 and 2109) displaced  compared to Ensembl txStart/stop. Consider to validate coding regions.
+WARNING:root:Note that Refseq NM_001135659 in refGene is >300bp (137 and 1846) displaced  compared to Ensembl txStart/stop. Consider to validate coding regions.
+WARNING:root:Note that Refseq NM_002547 in refGene is >300bp (348 and 1) displaced  compared to Ensembl txStart/stop. Consider to validate coding regions.
+WARNING:root:Note that Refseq NM_015192 in refGene is >300bp (361 and 0) displaced  compared to Ensembl txStart/stop. Consider to validate coding regions.
+WARNING:root:Note that Refseq NM_018129 in refGene is >300bp (49 and 1020) displaced  compared to Ensembl txStart/stop. Consider to validate coding regions.
+WARNING:root:Note that Refseq NM_025243 in refGene is >300bp (17 and 646) displaced  compared to Ensembl txStart/stop. Consider to validate coding regions.
+WARNING:root:Note that Refseq NM_006516 in refGene is >300bp (346 and 7) displaced  compared to Ensembl txStart/stop. Consider to validate coding regions.
+WARNING:root:Note that Refseq NM_015284 in refGene is >300bp (85 and 1614) displaced  compared to Ensembl txStart/stop. Consider to validate coding regions.
+WARNING:root:Note that Refseq NM_001199107 in refGene is >300bp (8 and 2248) displaced  compared to Ensembl txStart/stop. Consider to validate coding regions.
+WARNING:root:Note that Refseq NM_014795 in refGene is >300bp (663 and 293) displaced  compared to Ensembl txStart/stop. Consider to validate coding regions.
+INFO:root:From 57 refseqNames, found total of 57 records in refGene. 0 names have duplicates.
+INFO:root:transcripts.csv and region files written to path '/Users/tonyha/Dropbox/data/tmp/regionfiler2/clinicalGenePanels/EEogPU_OUS_medGen_v02_b37/'

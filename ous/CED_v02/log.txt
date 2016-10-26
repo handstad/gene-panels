@@ -1,0 +1,2 @@
+INFO:root:From 4 refseqNames, found total of 4 records in refGene. 0 names have duplicates.
+INFO:root:transcripts.csv and region files written to path '/Users/tonyha/Dropbox/data/tmp/regionfiler2/clinicalGenePanels/CED_OUS_medGen_v02_b37/'

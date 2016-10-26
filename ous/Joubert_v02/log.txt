@@ -1,0 +1,6 @@
+WARNING:root:Note that Refseq NM_182896 in refGene is >300bp (17 and 1609) displaced  compared to Ensembl txStart/stop. Consider to validate coding regions.
+WARNING:root:Note that Refseq NM_024790 in refGene is >300bp (1 and 351) displaced  compared to Ensembl txStart/stop. Consider to validate coding regions.
+WARNING:root:Note that Refseq NM_015272 in refGene is >300bp (13 and 873) displaced  compared to Ensembl txStart/stop. Consider to validate coding regions.
+WARNING:root:Note that Refseq NM_015069 in refGene is >300bp (1 and 3079) displaced  compared to Ensembl txStart/stop. Consider to validate coding regions.
+INFO:root:From 23 refseqNames, found total of 23 records in refGene. 0 names have duplicates.
+INFO:root:transcripts.csv and region files written to path '/Users/tonyha/Dropbox/data/tmp/regionfiler2/clinicalGenePanels/Joubert_OUS_medGen_v02_b37/'

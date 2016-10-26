@@ -1,0 +1,18 @@
+##### Parsing files from the main gene panel: KREFT_v01
+
+python ~/home/github/amg/src/genepanel/postprocess.py --phenotypes fenotyper_kreft_HTS_TW020316.reformat.1.txt --transcripts KREFT_v01/KREFT_v01.transcripts.csv --bedfiles `ls KREFT_v01/KREFT_v01.*bed` --outputdir LYNCHUTV_v01 --subpanel LYNCHUTV --version v01 --symbolsfile LYNCHUTV_v01/LYNCHUTV_underpaneler_v1.txt 
+Generating files for subpanel LYNCHUTV v01
+Number of transcripts removed: 6
+Number of genes in final transcripts file: 11
+Number of lines removed from bed file: 81
+Number of genes in final bed file: 11
+Number of lines removed from bed file: 81
+Number of genes in final bed file: 11
+Number of lines removed from bed file: 81
+Number of genes in final bed file: 11
+Number of phenotypes kept: 34
+Number of phenotypes removed: 49
+Genes removed by removing phenotypes (6): BRCA1, BRCA2, CDK4, CDKN2A, PALB2, TP53
+Number of genes in final phenotypes file: 11
+Genes not in appearing in both transcripts and phenotypes files: 
+Subpanel files are put in LYNCHUTV_v01

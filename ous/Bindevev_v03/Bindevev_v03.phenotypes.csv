@@ -1,0 +1,64 @@
+# Genepanel: Bindevev Version: 03 Date: 2016-06-16        Post-processed: 2016-06-21
+#gene symbol	phenotype	inheritance	omim_number	pmid	inheritance info	comment
+ACTA2	Moyamoya sykdom type 5	AD	614042			
+ACTA2	Familiært thorakalt aortaaneurysme, type 6	AD	611788			
+ADAMTS10	Weill-Marchesani syndrom, type 1	AR	277600			
+ADAMTS2	Ehlers-Danlos syndrom, type VIIC	AR	225410			
+ALDH18A1	Cutis laxa, type IIIA	AR	219150			
+ALDH18A1	Cutis laxa, autosomal dominant type 3	AD	616603	26320891	de novo	R138W, R138Q, R138L
+ATP6V0A2	Cutis laxa, type IIA	AR	219200			
+B3GALT6	Ehlers-Danlos syndrom, progeroid, type 2	AR	615349			
+B4GALT7	Ehlers-Danlos syndrom, progeroid, type 1	AR	130070			
+CHST14	Ehlers-Danlos syndrom			27023906		
+COL11A1	Stickler syndrom, type II	AD	604841			
+COL11A1	Marshall syndrom	AD	154780			
+COL11A1	Fibrokondrogenese, type 1	AR	228520			
+COL1A1	Caffey sykdom (infantil kortikal hyperostose)	AD	114000			
+COL1A1	Ehlers-Danlos syndrom, klassisk type	AD	130000			
+COL1A1	Ehlers-Danlos syndrom, type VIIA	AD	130060			
+COL1A1	Osteogenesis imperfecta, type I	AD	166200			
+COL1A1	Osteogenesis imperfecta, type II	AD	166210			
+COL1A1	Osteogenesis imperfecta, type III	AD	259420			
+COL1A1	Osteogenesis imperfecta, type IV	AD	166220			
+COL1A2	Ehlers-Danlos syndrom, hjerteklaff-form	AR	225320			
+COL1A2	Ehlers-Danlos syndrome, type VIIB	AD	130060			
+COL1A2	Osteogenesis imperfecta, type II	AD	166210			
+COL1A2	Osteogenesis imperfecta, type III	AD	259420			
+COL1A2	Osteogenesis imperfecta, type IV	AD	166220			
+COL2A1	Stickler syndrom, type I	AD	108300			
+COL2A1	Otospondylomegaepifyseal dysplasi	AR	215150			
+COL3A1	Ehlers-Danlos syndrom, type IV	AD	130050			
+COL4A5	Alport syndrom (med eller uten thorakalt aortaaneurysme)	XD	301050	20494893	obs dype intronvarianter. Digenisk arv også observert, se pmid 25575550	
+COL5A1	Ehlers-Danlos syndrom, klassisk type	AD	130000			
+COL5A2	Ehlers-Danlos syndrom, klassisk type	AD	130000			
+EFEMP2	Cutis laxa, type IB	AR	614437			
+ELN	Supravalvulær aortastenose	AD	185500			
+ELN	Cutis laxa	AD	123700			
+FBLN5	Cutis laxa, type IA	AR	219100			
+FBLN5	Cutis laxa, autosomal dominant type 2	AD	614434			
+FBN1	Marfan syndrom	AD	154700			
+FBN2	Kongenital araknodaktyli med kontrakturer	AD	121050			
+FKBP14	Ehlers-Danlos syndrom med progredierende kyfoskoliose, myopati og hørselstap	AR	614557			
+FOXE3	Familiært thorakalt aortaaneurysme	AD		26854927		
+LTBP2	Weill-Marchesani syndrom, type 3	AR	614819			
+LTBP4	Cutis laxa, type IC	AR	613177			
+MED12	Lujan-Fryns syndrome	XR	309520			
+MFAP5	Familiært thorakalt aortaaneurysme, type 9	AD	616166	25434006		
+MYH11	Familiært thorakalt aortaaneurysme, type 4	AD	132900			
+MYLK	Familiært thorakalt aortaaneyrysme, type 7	AD	613780			
+NOTCH1	Aortaklaffsykdom, type 1	AD	109730			
+PLOD1	Ehlers-Danlos syndrom, type VI	AR	225400			
+PRKG1	Familiært thorakalt aortaaneurysme type 8	AD	615436			
+PYCR1	Cutis laxa, type IIB	AR	612940			
+PYCR1	Cutis laxa, type IIIB	AR	614438			
+RIN2	MACS syndrom	AR	613075			
+SKI	Shprintzen-Goldberg syndrom	AD	182212			
+SLC2A10	Arteriell "tortuosity" syndrom	AR	208050			
+SLC39A13	Spondylocheirodysplasi, EDS-lignende	AR	612350			
+SMAD2	Familiært thorakalt aortaaneurysme			26247899		
+SMAD3	Loeys-Dietz syndrom, type 3	AD	613795			
+TGFB1	Camurati-Engelmanns sykdom	AD	131300			
+TGFB2	Loeys-Dietz syndrom, type 4	AD	614816			
+TGFB3	Loeys-Dietz syndrom, type 5	AD	615582			
+TGFBR1	Loeys-Dietz syndrom, type 1	AD	609192			
+TGFBR2	Loeys-Dietz syndrom, type 2	AD	610168			

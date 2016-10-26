@@ -1,0 +1,2 @@
+[DEFAULT]
+title=Kranioectodermal dysplasiSensenbrenner syndrom (CED)

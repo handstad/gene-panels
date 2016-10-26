@@ -1,0 +1,18 @@
+##### Parsing files from the main gene panel: KREFT_v01
+
+python ~/home/github/amg/src/genepanel/postprocess.py --phenotypes fenotyper_kreft_HTS_TW020316.reformat.1.txt --transcripts KREFT_v01/KREFT_v01.transcripts.csv --bedfiles `ls KREFT_v01/KREFT_v01.*bed` --outputdir MELANOM_v01 --subpanel MELANOM --version v01 --symbolsfile MELANOM_v01/MELANOM_underpaneler_v1.txt
+Generating files for subpanel MELANOM v01
+Number of transcripts removed: 15
+Number of genes in final transcripts file: 2
+Number of lines removed from bed file: 218
+Number of genes in final bed file: 2
+Number of lines removed from bed file: 218
+Number of genes in final bed file: 2
+Number of lines removed from bed file: 218
+Number of genes in final bed file: 2
+Number of phenotypes kept: 4
+Number of phenotypes removed: 79
+Genes removed by removing phenotypes (15): APC, BMPR1A, BRCA1, BRCA2, CDH1, MLH1, MSH2, MSH6, MUTYH, PALB2, PMS2, PTEN, SMAD4, STK11, TP53
+Number of genes in final phenotypes file: 2
+Genes not in appearing in both transcripts and phenotypes files: 
+Subpanel files are put in MELANOM_v01

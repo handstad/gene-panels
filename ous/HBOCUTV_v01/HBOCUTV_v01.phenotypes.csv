@@ -1,0 +1,10 @@
+# Genepanel: HBOCUTV Version: v01 Date: 2016-05-27
+gene symbol	phenotype	inheritance	omim_number	pmid	inheritance info	comment
+BRCA1	{Breast-ovarian cancer, familial, 1}	AD	604370			
+BRCA2	{Breast-ovarian cancer, familial, 2}	AD	612555			
+CDH1	Gastric cancer, familial diffuse	AD	137215			removed "with or without cleft lip and/or ppalate" from phenotype
+PALB2	{Breast cancer, susceptibility to}	AD	114480			
+PTEN	Cowden syndrome 1	AD	158350			
+STK11	Peutz-Jeghers syndrome	AD	175200			
+TP53	Breast cancer	AD	114480			
+TP53	Li-Fraumeni syndrome	AD	151623			

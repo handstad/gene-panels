@@ -1,0 +1,17 @@
+[DEFAULT]
+title=Epileptisk encefalopati og psykisk utviklingshemming
+
+coverage_description=* En fenotype, "autosomal dominant progressive external ophtalmoplegia" (adPEO), er dominant.
+
+mlpa=RAI1: Smith-Mageni syndrom, MLPA detekterer ca. 70% av tilfellene* (P369 Smith-Magenis)<br>
+ UBE3A: Angelman syndrom, metyleringssensitiv MLPA detekterer ca. 75% av tilfellene* (P336 Prader Willi/Angelman), sekvensering vil detektere kun 10% <br>
+ EHMT1: Kleefstra syndrom, MLPA detekterer ca. 70% av tilfellene* (P340 EHMT1)<br>
+ SLC2A1: GLUT1-mangel syndrom, MLPA detekterer 11-14% av tilfellene* (P138 SLC2A1)<br>
+ MECP2: Rett syndrom, MLPA detekterer opp til 8% av tilfellene* (P015 MECP2)<br>
+ SCN1A: Dravet syndrom, nytteverdi av MLPA er antatt lav (P137 SCN1A)<br>
+ ZEB2: Mowat-Wilson syndrom, MLPA detekterer ca. 2% av tilfellene (P169 Hirschsprung-1)<br>
+ ARX: X-bundet PU og lissencefali, MLPA detekterer en liten andel tilfellene (P189 CDKL5)<br>
+ CDKL5: Rett syndrom/West syndrom, MLPA detekterer en meget liten andel av tilfellene (P189 CDKL5)<br>
+ FOXG1: Rett syndrom, MLPA detekterer en meget liten andel av tilfellene (P395 MEF2C-FOXG1)<br>
+ MEF2C: 5q14 delesjonssyndrom, MLPA detekterer en meget liten andel av tilfellene (P395 MEF2C-FOXG1)<br>
+ * www.genereviews.org

@@ -1,0 +1,5 @@
+[DEFAULT]
+title=Lebers kongenitale amaurose syndrom
+
+coverage_description=* Sangersekvensering for påvisning av den sykdomsgivende varianten i CEP290 c.2991+1655A>G er utført
+

@@ -1,0 +1,4 @@
+[DEFAULT]
+title=Ektodermal dysplasi og hypodonti
+
+coverage_description=

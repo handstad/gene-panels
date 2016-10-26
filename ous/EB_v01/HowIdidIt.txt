@@ -1,0 +1,14 @@
+28 October 2015 Yvan Strahm
+
+Remove the three first lines, remove funky characters , save as csv with tab separators
+run the script like that  
+
+pcus572:exe yvans$ ./make_region_files 
+--biomartfile=/Volumes/Analysis/Exome/GeneCoverage/Epidermolysis_bullosa/GenCoverage28Oct2015/Epidermolysis_bullosa_mart_export_v1.0_281015_kirkma.csv 
+--refgene=/Users/yvans/Home/workspace/vcpipe-bundle/funcAnnot/refseq/refGene_150311.tsv 
+--outputdir=/Volumes/Analysis/Exome/GeneCoverage/Epidermolysis_bullosa/GenCoverage28Oct2015/makeRegionResults/ 
+--genepanel=EB 
+--version=01 
+--dict=/Volumes/Analysis/dataDistro_r01_d01_LocalCopy/b37/genomic/gatkBundle_2.5/human_g1k_v37_decoy.dict  
+&>/Volumes/Analysis/Exome/GeneCoverage/Epidermolysis_bullosa/GenCoverage28Oct2015/makeRegion.log
+

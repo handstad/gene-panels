@@ -1,0 +1,2 @@
+[DEFAULT]
+title=Bardet-Biedl syndrom (BB)

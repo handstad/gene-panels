@@ -1,0 +1,2 @@
+[DEFAULT]
+title=Lynch syndrom og arvelig bryst- og ovariekreft

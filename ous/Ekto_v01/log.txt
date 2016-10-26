@@ -1,0 +1,12 @@
+± % /work/dev/amg/exe/make_region_files --biomartfile Ektodermal_dysplasi_hypodonti_mart_export_v1.0_22.10.2015_tskodje_pheno.txt  --outputdir . --genepanel Ekto --version 01 --refgene /work/dev/vcpipe-bundle/funcAnnot/refseq/refGene_150311.tsv                             !10466
+WARNING:root:Note that Refseq NM_001793 in refGene is >300bp (589 and 14) displaced  compared to Ensembl txStart/stop. Consider to validate coding regions.
+WARNING:root:Note that Refseq NM_145861 in refGene is >300bp (101 and 2016) displaced  compared to Ensembl txStart/stop. Consider to validate coding regions.
+WARNING:root:Note that Refseq NM_004465 in refGene is >300bp (115 and 1450) displaced  compared to Ensembl txStart/stop. Consider to validate coding regions.
+WARNING:root:Note that Refseq NM_000141 in refGene is >300bp (374 and 12) displaced  compared to Ensembl txStart/stop. Consider to validate coding regions.
+WARNING:root:Given versioned refseq NM_000165.3 does not match used refGene NM_000165.4.
+WARNING:root:Given versioned refseq NM_052985.2 does not match used refGene NM_052985.3.
+WARNING:root:Note that Refseq NM_153427 in refGene is >300bp (4771 and 0) displaced  compared to Ensembl txStart/stop. Consider to validate coding regions.
+WARNING:root:Note that Refseq NM_203475 in refGene is >300bp (820 and 12) displaced  compared to Ensembl txStart/stop. Consider to validate coding regions.
+WARNING:root:Given versioned refseq NM_203475.1 does not match used refGene NM_203475.2.
+WARNING:root:Note that Refseq NM_002855 in refGene is >300bp (359 and 0) displaced  compared to Ensembl txStart/stop. Consider to validate coding regions.
+INFO:root:From 34 refseqNames, found total of 34 records in refGene. 0 names have duplicates.

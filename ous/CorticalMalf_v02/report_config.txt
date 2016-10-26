@@ -1,0 +1,14 @@
+[DEFAULT]
+# Used in attachment sent to doctor and internal web
+title=Kortikale malformasjoner og pontocerebellær hypoplasi
+version=v02
+
+coverage_description=
+
+[Web publishing - table]
+# The values (not the keys) are printed line by line before the table with genes.
+legend = [
+    "Tabellen er sortert på gennavn (HGNC gensymbol)",
+    "Navn på gen er iht. HGNC",
+    "<b>>x10</b> Andel av genet som har blitt lest med tilfredstillende kvalitet flere enn 10 ganger under sekvensering"
+    ]

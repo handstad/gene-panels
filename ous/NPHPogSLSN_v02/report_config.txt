@@ -1,0 +1,2 @@
+[DEFAULT]
+title=Nefronoftis (NPHP) og Senior-Løken (SLSN)

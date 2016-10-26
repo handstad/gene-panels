@@ -1,0 +1,8 @@
+WARNING:root:Note that Refseq NM_016006 in refGene is >300bp (12 and 3676) displaced  compared to Ensembl txStart/stop. Consider to validate coding regions.
+WARNING:root:Note that Refseq NM_001942 in refGene is >300bp (1 and 2217) displaced  compared to Ensembl txStart/stop. Consider to validate coding regions.
+WARNING:root:Given versioned refseq NM_001942.2 does not match used refGene NM_001942.3.
+WARNING:root:Note that Refseq NM_006579 in refGene is >300bp (617 and 0) displaced  compared to Ensembl txStart/stop. Consider to validate coding regions.
+WARNING:root:Note that Refseq NM_000400 in refGene is >300bp (31 and 1553) displaced  compared to Ensembl txStart/stop. Consider to validate coding regions.
+WARNING:root:Note that Refseq NM_145068 in refGene is >300bp (0 and 3345) displaced  compared to Ensembl txStart/stop. Consider to validate coding regions.
+INFO:root:From 40 refseqNames, found total of 40 records in refGene. 0 names have duplicates.
+INFO:root:transcripts.csv and region files written to path '/Users/tonyha/Dropbox/data/tmp/regionfiler2/clinicalGenePanels/Iktyose_OUS_medGen_v02_b37/'

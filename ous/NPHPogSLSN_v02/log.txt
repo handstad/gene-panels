@@ -1,0 +1,8 @@
+WARNING:root:Note that Refseq NM_016122 in refGene is >300bp (36 and 583) displaced  compared to Ensembl txStart/stop. Consider to validate coding regions.
+WARNING:root:Note that Refseq NM_178170 in refGene is >300bp (33 and 689) displaced  compared to Ensembl txStart/stop. Consider to validate coding regions.
+WARNING:root:Note that Refseq NM_153240 in refGene is >300bp (17 and 1020) displaced  compared to Ensembl txStart/stop. Consider to validate coding regions.
+WARNING:root:Given versioned refseq NM_015102.3 does not match used refGene NM_015102.4.
+WARNING:root:Note that Refseq NM_015272 in refGene is >300bp (13 and 873) displaced  compared to Ensembl txStart/stop. Consider to validate coding regions.
+WARNING:root:Note that Refseq NM_015069 in refGene is >300bp (1 and 3079) displaced  compared to Ensembl txStart/stop. Consider to validate coding regions.
+INFO:root:From 21 refseqNames, found total of 21 records in refGene. 0 names have duplicates.
+INFO:root:transcripts.csv and region files written to path '/Users/tonyha/Dropbox/data/tmp/regionfiler2/clinicalGenePanels/NPHPogSLSN_OUS_medGen_v02_b37/'

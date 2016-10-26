@@ -1,0 +1,2 @@
+[DEFAULT]
+title=Medfødte glykosyleringsdefekter type 1 (CDG1)

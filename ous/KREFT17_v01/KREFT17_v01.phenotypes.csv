@@ -1,0 +1,20 @@
+# Genepanel: KREFT Version: v01 Date: 2016-05-27
+gene symbol	phenotype	inheritance	omim_number	pmid	inheritance info	comment
+APC	Adenomatous polyposis coli	AD	175100			
+BMPR1A	Polyposis, juvenile intestinal	AD	174900			
+BRCA1	{Breast-ovarian cancer, familial, 1}	AD	604370			
+BRCA2	{Breast-ovarian cancer, familial, 2}	AD	612555			
+CDH1	Gastric cancer, familial diffuse	AD	137215			removed "with or without cleft lip and/or ppalate" from phenotype
+CDK4	{Melanoma, cutaneous malignant, 3}	AD	609048			
+CDKN2A	{Melanoma, cutaneous malignant, 2}	AD	155601			
+MLH1	Colorectal cancer, hereditary nonpolyposis, type 2	AD	609310			
+MSH2	Colorectal cancer, hereditary nonpolyposis, type 1	AD	120435			
+MSH6	Colorectal cancer, hereditary nonpolyposis, type 5	AD	614350			
+MUTYH	Colorectal adenomatous polyposis, autosomal recessive	AR	132600			added AR and removed  "with pilomatricomas" from phenotype
+PALB2	{Breast cancer, susceptibility to}	AD	114480			
+PMS2	Colorectal cancer, hereditary nonpolyposis, type 4	AD	614337			
+PTEN	Cowden syndrome 1	AD	158350			
+SMAD4	Polyposis, juvenile intestinal	AD	174900			
+STK11	Peutz-Jeghers syndrome	AD	175200			
+TP53	Breast cancer	AD	114480			
+TP53	Li-Fraumeni syndrome	AD	151623			

@@ -1,0 +1,13 @@
+WARNING:root:Note that Refseq NM_030957 in refGene is >300bp (35 and 488) displaced  compared to Ensembl txStart/stop. Consider to validate coding regions.
+WARNING:root:Note that Refseq NM_012463 in refGene is >300bp (1 and 752) displaced  compared to Ensembl txStart/stop. Consider to validate coding regions.
+WARNING:root:Note that Refseq NM_000088 in refGene is >300bp (7 and 806) displaced  compared to Ensembl txStart/stop. Consider to validate coding regions.
+WARNING:root:Given versioned refseq NM_000501.2 does not match used refGene NM_000501.3.
+WARNING:root:Note that Refseq NM_006329 in refGene is >300bp (121 and 632) displaced  compared to Ensembl txStart/stop. Consider to validate coding regions.
+WARNING:root:Note that Refseq NM_002474 in refGene is >300bp (3 and 857) displaced  compared to Ensembl txStart/stop. Consider to validate coding regions.
+WARNING:root:Note that Refseq NM_006907 in refGene is >300bp (378 and 1) displaced  compared to Ensembl txStart/stop. Consider to validate coding regions.
+WARNING:root:Note that Refseq NM_018993 in refGene is >300bp (3044 and 2) displaced  compared to Ensembl txStart/stop. Consider to validate coding regions.
+WARNING:root:Note that Refseq NM_003238 in refGene is >300bp (902 and 0) displaced  compared to Ensembl txStart/stop. Consider to validate coding regions.
+INFO:root:From 33 refseqNames, found total of 33 records in refGene. 0 names have duplicates.
+INFO:root:transcripts.csv and region files written to path '/Users/tonyha/Dropbox/data/tmp/regionfiler2/clinicalGenePanels/Bindevev_OUS_medGen_v01_b37/'
+
+Note that this genepanel has been renamed to version v02. The panel was named incorrectly (v01) at first.

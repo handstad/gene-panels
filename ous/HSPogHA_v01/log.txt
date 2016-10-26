@@ -1,0 +1,16 @@
+./make_region_files --biomartfile /Users/tonyha/data/tmp/regions/HSPogHA/src/HSPogHA_mart_export_v1.3_uxnaei_04.05.2015 --refgene /Users/tonyha/tmp/refGene_hg19_2015-03-11.tsv --genepanel HSPogHA --version 01 --dict /Volumes/Tony5TBDisk/data/vcpipe_bundle_old/genomic/gatkBundle_2.5/human_g1k_v37_decoy.dict  --outputdir /Users/tonyha/data/tmp/regions/HSPogHA/genepanel/
+WARNING:root:Note that Refseq NM_014855 in refGene is >300bp (8 and 2627) displaced  compared to Ensembl txStart/stop. Consider to validate coding regions.
+WARNING:root:Note that Refseq NM_152269 in refGene is >300bp (380 and 0) displaced  compared to Ensembl txStart/stop. Consider to validate coding regions.
+WARNING:root:Note that Refseq NM_001127221 in refGene is >300bp (43 and 860) displaced  compared to Ensembl txStart/stop. Consider to validate coding regions.
+WARNING:root:Note that Refseq NM_001160147 in refGene is >300bp (124 and 7229) displaced  compared to Ensembl txStart/stop. Consider to validate coding regions.
+WARNING:root:Note that Refseq NM_007175 in refGene is >300bp (49 and 1300) displaced  compared to Ensembl txStart/stop. Consider to validate coding regions.
+WARNING:root:Note that Refseq NM_004115 in refGene is >300bp (0 and 1977) displaced  compared to Ensembl txStart/stop. Consider to validate coding regions.
+WARNING:root:Note that Refseq NM_000144 in refGene is >300bp (303 and 4864) displaced  compared to Ensembl txStart/stop. Consider to validate coding regions.
+WARNING:root:Note that Refseq NM_004984 in refGene is >300bp (65 and 1861) displaced  compared to Ensembl txStart/stop. Consider to validate coding regions.
+WARNING:root:Given versioned refseq NM_000533.3 does not match used refGene NM_000533.4.
+WARNING:root:Given versioned refseq NM_016630.5 does not match used refGene NM_016630.6.
+WARNING:root:Given versioned refseq NM_003119.2 does not match used refGene NM_003119.3.
+WARNING:root:Note that Refseq NM_173500 in refGene is >300bp (330 and 5609) displaced  compared to Ensembl txStart/stop. Consider to validate coding regions.
+WARNING:root:Note that Refseq NM_152415 in refGene is >300bp (320 and 0) displaced  compared to Ensembl txStart/stop. Consider to validate coding regions.
+INFO:root:From 51 refseqNames, found total of 51 records in refGene. 0 names have duplicates.
+INFO:root:transcripts.csv and region files written to path '/Users/tonyha/data/tmp/regions/HSPogHA/genepanel/'

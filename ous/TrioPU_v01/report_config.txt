@@ -1,0 +1,15 @@
+[DEFAULT]
+# Used in attachment sent to doctor and internal web
+title=Psykisk utviklingshemming og forsinket utvikling
+version = v01
+
+coverage_description=(1) bp = basepar; + 4 bp = -2 og + 2 bp i intron for å dekke konservert spleisesete (basert på Refseqs fra UCSC refGene tabell av 11.03.2015, GRCh37/hg19)<br>
+ (2) Dekningsgrad. Andel sekvens lest minst 10 ganger<br><br>
+
+[Web publishing - table]
+# The values (not the keys) are printed line by line before the table with genes.
+legend = [
+    "Tabellen er sortert på gennavn (HGNC gensymbol)",
+    "Navn på gen er iht. HGNC",
+    "<b>>x10</b> Andel av genet som har blitt lest med tilfredstillende kvalitet flere enn 10 ganger under sekvensering"
+    ]
